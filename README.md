@@ -16,14 +16,10 @@ Information security, Networking, OS, Active directory, Cryptography, SQL(Oracle
 
 | Skill                                                           | Associated Project         |
 |-----------------------------------------------------------------|----------------------------|
-| Active Directory management                                     | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR                           | <a href="https://google.com">Detection Lab</a>|
-| Splunk Implementation                                           | <a href="https://google.com">Detection Lab</a>|
-| Security Onion Implementation                                   | <a href="https://google.com">Detection Lab</a>|
-| ELK stack Implementation (Ubuntu)                               | <a href="https://google.com">Detection Lab</a>|
-| Honeypot                                                        | <a href="https://google.com">Detection Lab</a>|
+| Active Directory management                                     | <a href="https://github.com/jerry1403/Active-Directory-management/tree/main">Detection Lab</a>|
+| Security Automation with Shuffle SOAR                           | <a href="https://github.com/jerry1403/Automated-Endpoint-Threat-Detection-Hybrid">Detection Lab</a>|
+| Threat Inteliigence                                             | <a href="https://github.com/jerry1403/Secure-Threat-Intelligence-Collection-Using-T-Pot-Honeypot">Detection Lab</a>|
 | Malware analysis                                                | <a href="https://google.com">Detection Lab</a>|
-| Scripting and Automation for Threat Mitigation                  | SOC Automation Lab|
 
 # Tools
 
@@ -88,7 +84,7 @@ Information security, Networking, OS, Active directory, Cryptography, SQL(Oracle
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img alt="Static Badge" src="https://img.shields.io/badge/Wazuh-blue?style=for-the-badge&logo=wazuh&logoColor=white">
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
@@ -96,13 +92,12 @@ Information security, Networking, OS, Active directory, Cryptography, SQL(Oracle
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img alt="Static Badge" src="https://img.shields.io/badge/ECCouncil-ff2d00?style=for-the-badge&logo=ec-council">
+<img alt="Static Badge" src="https://img.shields.io/badge/LPU-ff6140?style=for-the-badge&logo=ec-council">
+<img alt="Static Badge" src="https://img.shields.io/badge/Coursera-0ca7ff?style=for-the-badge&logo=coursera">
+<img alt="Static Badge" src="https://img.shields.io/badge/Microsoft-blue?style=for-the-badge&logo=microsoft">
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+## Achievements
+- Blue Team Labs Online – Completed 20+ challenges and earned 316 stars.
+- Try Hack Me – Earned rank hacker completing 4000 points.
