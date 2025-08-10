@@ -56,7 +56,7 @@ Incident response, Digital forensics, Malware analysis, Vulnerability assessment
   OSSEC / Wazuh,
   Security Onion
 
-  🛡️ IDS / Network Monitoring
+  🛡️ Network Monitoring
 
   Snort,
   Suricata,
@@ -68,12 +68,12 @@ Incident response, Digital forensics, Malware analysis, Vulnerability assessment
 
   TheHive & cortex XDR
 
-  🧪 Penetration Testing / Offensive Security
+  🧪 Offensive Security
   
   Burp Suite,
   Atomic Red team
 
-  🧬 Malware Analysis & Reverse Engineering
+  🧬 Malware Analysis 
 
   IDA,
   x64dbg,
