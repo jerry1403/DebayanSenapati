@@ -2,8 +2,7 @@
 <small><span style="font-family: 'Courier New', monospace; font-style: italic; color: gray;">aka saltyy ; jerry ; amenO</span></small>
 
 <a href="https://www.linkedin.com/in/debayan-senapati-2501a9307"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/AmenO.png)](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2380040)
-
+![THM](https://tryhackme-badges.s3.amazonaws.com/AmenO.png)
 
 
 
