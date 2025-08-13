@@ -34,7 +34,10 @@ Incident response, Digital forensics, Malware analysis, Vulnerability assessment
 ## Achievements
 - Blue Team Labs Online – Completed 30+ challenges and earned 370+ stars.
 - Try Hack Me – top 5%
-- [View my Credly badge](https://www.credly.com/badges/e794973d-2228-4fcd-a0c6-45b71879ef04/public_url)
+- [credly badges](https://www.credly.com/badges/e794973d-2228-4fcd-a0c6-45b71879ef04/public_url)
+  <!--START_SECTION:badges-->
+  <!--END_SECTION:badges-->
+
 
 
 # Tools
