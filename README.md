@@ -23,7 +23,7 @@ Incident response, Digital forensics, Malware analysis, Vulnerability assessment
 |-----------------------------------------------------------------|----------------------------|
 | Active Directory management                                     | <a href="https://github.com/jerry1403/Active-Directory-management/tree/main">Windows-AD</a>|
 | Incident Response                                               | <a href="https://github.com/jerry1403/Automated-Endpoint-Threat-Detection-Hybrid">Automated-Endpoint-Threat-Detection</a>|
-| Threat Inteliigence                                             | <a href="https://github.com/jerry1403/Secure-Threat-Intelligence-Collection-Using-T-Pot-Honeypot">Collection-Using-Honeypot</a>|
+| Threat Intelligence                                             | <a href="https://github.com/jerry1403/Secure-Threat-Intelligence-Collection-Using-T-Pot-Honeypot">Collection-Using-Honeypot</a>|
 
 ## Certifications
 [![ECCouncil](https://img.shields.io/badge/ECCouncil-ff2d00?style=for-the-badge&logo=ec-council)](https://drive.google.com/file/d/1-PEGuOanb3F9sHYn4JJitfK8RTRG4Ffs/view?usp=sharing)
