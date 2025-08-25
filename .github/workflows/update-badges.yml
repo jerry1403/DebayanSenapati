@@ -18,3 +18,4 @@ jobs:
         with:
           CREDLY_USER: ${Debayan Senapati}
           NUMBER_LAST_BADGES: 10 
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
