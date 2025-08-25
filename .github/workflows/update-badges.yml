@@ -16,5 +16,5 @@ jobs:
       - name: Update Badges
         uses: pemtajo/badge-readme@main
         with:
-          CREDLY_USER: ${debayan-senapati.58afad13}
+          CREDLY_USER: debayan-senapati.58afad13
           NUMBER_LAST_BADGES: 10 
