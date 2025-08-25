@@ -1,5 +1,8 @@
 # Hey, my name is Debayan 
 <small><span style="font-family: 'Courier New', monospace; font-style: italic; color: gray;">aka saltyy ; jerry ; amenO</span></small>
+<!-- BADGES_START -->
+<!-- BADGES_END -->
+
 
 <a href="https://www.linkedin.com/in/debayan-senapati-2501a9307"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ![THM](https://tryhackme-badges.s3.amazonaws.com/AmenO.png?v=7)
@@ -36,8 +39,7 @@ Incident response, Digital forensics, Malware analysis, Vulnerability assessment
 - Blue Team Labs Online – Completed 30+ challenges and earned 370+ stars.
 - Try Hack Me – top 5%
 - [credly badges](https://www.credly.com/badges/e794973d-2228-4fcd-a0c6-45b71879ef04/public_url)
-  <!--START_SECTION:badges-->
-  <!--END_SECTION:badges-->
+
 
 
 
