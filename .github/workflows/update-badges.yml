@@ -16,5 +16,5 @@ jobs:
       - name: Update Badges
         uses: pemtajo/badge-readme@main
         with:
-          CREDLY_USER: ${jerry1403}
+          CREDLY_USER: ${debayansenapati@gmail.com}
           NUMBER_LAST_BADGES: 10 
