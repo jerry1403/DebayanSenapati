@@ -16,6 +16,6 @@ jobs:
       - name: Update Badges
         uses: pemtajo/badge-readme@main
         with:
-          CREDLY_USER: ${Debayan Senapati}
+          CREDLY_USER: ${debayan-senapati.58afad13}
           NUMBER_LAST_BADGES: 10 
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
