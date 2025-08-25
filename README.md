@@ -1,13 +1,13 @@
 # Hey, my name is Debayan 
 <small><span style="font-family: 'Courier New', monospace; font-style: italic; color: gray;">aka saltyy ; jerry ; amenO</span></small>
-<!-- BADGES_START -->
-<!-- BADGES_END -->
+
 
 
 <a href="https://www.linkedin.com/in/debayan-senapati-2501a9307"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ![THM](https://tryhackme-badges.s3.amazonaws.com/AmenO.png?v=7)
 
-
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 
 
