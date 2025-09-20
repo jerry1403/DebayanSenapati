@@ -7,8 +7,8 @@
 ![THM](https://tryhackme-badges.s3.amazonaws.com/AmenO.png?m=6)
 
 <!--START_SECTION:badges-->
-<a href="https://www.credly.com/badges/38e436da-904a-4e9b-8782-65b4605d07b1" title="AWS Educate Getting Started with Networking"><img src="https://images.credly.com/size/80x80/images/979e42e2-1d32-4d21-97ea-53d991ea50fb/image.png" alt="AWS Educate Getting Started with Networking" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/e794973d-2228-4fcd-a0c6-45b71879ef04" title="AWS Educate Getting Started with Security"><img src="https://images.credly.com/size/80x80/images/80845928-d1f8-4549-ae9d-27676fba897e/image.png" alt="AWS Educate Getting Started with Security" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/38e436da-904a-4e9b-8782-65b4605d07b1" title="AWS Educate Getting Started with Networking - Training Badge"><img src="https://images.credly.com/size/80x80/images/f5095707-7683-4886-940c-3e8e4a2085ca/blob" alt="AWS Educate Getting Started with Networking - Training Badge" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/e794973d-2228-4fcd-a0c6-45b71879ef04" title="AWS Educate Getting Started with Security - Training Badge"><img src="https://images.credly.com/size/80x80/images/fc6fa322-80f4-45a5-9def-91e9bcfde837/blob" alt="AWS Educate Getting Started with Security - Training Badge" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 
