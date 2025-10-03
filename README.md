@@ -4,7 +4,7 @@
 
 
 <a href="https://www.linkedin.com/in/debayan-senapati-2501a9307"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-![THM](https://tryhackme-badges.s3.amazonaws.com/AmenO.png?m=6)
+![THM](https://tryhackme-badges.s3.amazonaws.com/AmenO.png?a=2)
 
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/38e436da-904a-4e9b-8782-65b4605d07b1" title="AWS Educate Getting Started with Networking - Training Badge"><img src="https://images.credly.com/size/80x80/images/f5095707-7683-4886-940c-3e8e4a2085ca/blob" alt="AWS Educate Getting Started with Networking - Training Badge" width="80" height="80"></a>
